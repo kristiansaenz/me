@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/me/static/media/mountain.1af3827b.png"
   },
   {
-    "revision": "3d7cda048aeffb98a324d36bdd72acb2",
+    "revision": "ffc4ae3a5d343768bb0cd47c691dfa34",
     "url": "/me/index.html"
   }
 ];
