@@ -8,21 +8,22 @@ import Experience from './components/Experience';
 import Education from './components/Education';
 import Portfolio from './components/Portfolio';
 import ContactMe from './components/ContactMe';
-import './App.css';
+import Footer from './components/Footer';
+import './App.scss';
 
 class App extends Component {
   render() {
     return (
       <div className="App">
           <Main />
-          <logo />
           <Navbar/>
           <AboutMe />          
           <Skills />
           <Experience />
           <Education />
-          <Portfolio />
+          {/* <Portfolio /> */}
           <ContactMe />
+          <Footer />
       </div>
     );
   }
