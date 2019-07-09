@@ -34,6 +34,7 @@ class Skills extends Component {
                                         <li>Sketch</li>
                                         <li>Adobe Photoshop</li>
                                         <li>Adobe Illustrator</li>
+                                        <li>Adobe Xd</li>
                                     </ul>
                                 </div>
                                 <div class="column">
@@ -54,6 +55,7 @@ class Skills extends Component {
                                         <li>RESTful Services</li>
                                         <li>JSON Api</li>
                                         <li>Couchbase</li>
+                                        <li>Express</li>
                                         <li>Springboot</li>
                                         <li>Kafka</li>
                                         <li>Docker</li>

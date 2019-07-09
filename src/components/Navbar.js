@@ -4,7 +4,7 @@ import React, { Component } from 'react';
 class Navbar extends Component {
     render() {
         return (
-            <div>{/*
+            <div>
                 <nav class="navbar is-fixed-bottom" role="navigation" aria-label="main navigation" >
                     <div class="navbar-brand">
                         <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
@@ -25,7 +25,7 @@ class Navbar extends Component {
                         </div>
                     </div>
                     <div class="navbar-end"></div>
-                </nav>*/}
+                </nav>
                 <nav class="navbar is-fixed-bottom" role="navigation" aria-label="main navigation" >
                             <nav class="level is-mobile">
                                 <p class="level-item has-text-centered">
@@ -39,6 +39,9 @@ class Navbar extends Component {
                                 </p>
                                 <p class="level-item has-text-centered">
                                     <a href="#EducationSection"class="navbar-item">education</a>
+                                </p>
+                                <p class="level-item has-text-centered">
+                                    <a href="#PortfolioSection"class="navbar-item">portfolio</a>
                                 </p>
                                 <p class="level-item has-text-centered">
                                     <a href="#ContactSection" class="navbar-item">contact</a>

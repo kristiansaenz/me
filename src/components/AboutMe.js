@@ -34,16 +34,14 @@ class AboutMe extends Component {
                                 <h3>In my personal time, I like to:</h3>
                                 <br />
                                 <ul>
-                                    <li>learn new things</li>
-                                    <li>go camping and hiking</li>
-                                    <li>play guitar</li>
-                                    <li>draw and paint</li>
-                                    <li>do water sports!</li>
-                                    <li>learn about sustainable living =)</li>
+                                    <li>hike & camp</li><br/>
+                                    <li>play guitar</li><br/>
+                                    <li>make stuff</li><br/>
+                                    <li>learn new things</li><br/>
+                                    <li>be outside =)</li>
                                 </ul>
                             </div>
-                        </div>
-                            
+                            </div>
                             </div>
                         </div>
                     </div>

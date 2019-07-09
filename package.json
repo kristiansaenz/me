@@ -2,7 +2,7 @@
   "name": "my-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kristiansaenz.github.io/my-portfolio/",
+  "homepage": "https://kristiansaenz.github.io/me/",
   "dependencies": {
     "bulma": "^0.7.5",
     "bulma-timeline": "^3.0.4",

@@ -6,7 +6,7 @@ class Education extends Component {
     render() {
         return(
             <div id="EducationSection">
-                <section class="section is-medium">
+                <section class="section is-large">
                 <div class="container">
                     <div class="columns is-centered">
                         <div class="column is-three-quarters">

@@ -72,6 +72,10 @@ $accent-color: #a0409e;
   font-family: $medium-font;
 }
 
+p.subtitle {
+    font-size: .8rem;
+}
+
 #skills li {
   display: inline; 
   padding: 0 1vh;
@@ -101,6 +105,7 @@ $accent-color: #a0409e;
 
 .navbar.is-fixed-bottom {
   background-color: $backsplash-color;
+  overflow: hidden;
 }
 
 .navbar-link, a.navbar-item {
@@ -119,4 +124,28 @@ strong {
 .level.is-mobile {
   margin: auto;
   margin-top: 1vh;
+  max-width: max-content;
+}
+
+/******** Mobile **************/
+
+@media screen and (max-width: 680px) {
+
+  .navbar-link, a.navbar-item {
+    padding: .2rem;
+  }
+
+  .level.is-mobile {
+    margin-top: 2vh;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+
+  .image.is-2by1 {
+    max-width: 80%;
+    max-height: 80%;
+    margin: auto;
+  }
+  
 }

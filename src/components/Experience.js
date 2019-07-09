@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
 import ColoredLine from '../components/ColoredLine';
-import Timeline from '../components/Timeline';
-import Timeline2 from '../components/Timeline2';
 
 
 
