@@ -12,7 +12,7 @@ class AboutMe extends Component {
                         <div class="columns is-centered">
                             <div class="column is-three-quarters">
                                 <h2 class="title">About Me</h2>
-                        <ColoredLine color="grey" />
+                        <ColoredLine />
                         <div class="columns is-8 is-three-quarters">
                             <div class="column" id="PicOfMe">
                                 <figure class="image is-4by5">

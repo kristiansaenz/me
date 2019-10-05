@@ -16,7 +16,7 @@ class ContactMe extends Component {
                         <div class="columns is-centered">
                             <div class="column is-three-quarters">
                                 <h1 class="title">Contact Me</h1>
-                                <ColoredLine color="grey" />
+                                <ColoredLine />
                                     <ul id="contact-info">
                                         <li><span><img id="marker" src={Marker} alt=""></img></span>Currently: Texas</li>
                                         <li>Email: kristian.saenz49@gmail.com</li>

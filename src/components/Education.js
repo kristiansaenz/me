@@ -11,7 +11,7 @@ class Education extends Component {
                     <div class="columns is-centered">
                         <div class="column is-three-quarters">
                             <h1 class="title">Education</h1>
-                            <ColoredLine color="grey" />
+                            <ColoredLine />
                             <h2 class="subtitle">Texas A&M University Corpus Christi</h2>
                             <div class="columns is-centered">
                                 <p>Bachelor of Computer Science <span class="bullet">•</span> Systems Programming</p>
