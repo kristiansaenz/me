@@ -1,6 +1,8 @@
 import React from 'react';
-import Name from '../images/SecName.png';
+// import Name from '../images/SecName.png';
+import Name from '../images/name-logo.png';
 import Mountain from '../images/mountain.png';
+import Landing from '../images/queens-landing.png';
 
 function Main() {
     return(
@@ -11,8 +13,8 @@ function Main() {
                 {/* <h1 class="title" id="myName">Kristian Saenz</h1>
                 <h2 class="subtitle">Front-End Developer</h2> */}
                 <div class="columns is-centered">
-                    <div class="column is-one-quarter">
-                        <figure class="image is-2by1">
+                    <div class="column is-one-third">
+                        <figure class="image is-588x224">
                             <img src={Name} alt=""></img>
                         </figure>
                     </div>
