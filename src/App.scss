@@ -21,7 +21,7 @@ $accent-color: #a0409e;
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: $backsplash-color;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -109,7 +109,7 @@ p.subtitle {
 }
 
 .navbar-link, a.navbar-item {
-  color: $light-color;
+  color: white;
 }
 
 a.navbar-item:hover {
