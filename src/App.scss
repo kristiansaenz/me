@@ -1,6 +1,6 @@
 $biggest-font: 'Lato-black';
-$medium-font: 'Lato';
-$smallest-font: 'Lato';
+$medium-font: 'Raleway-bold', sans-serif;
+$smallest-font: 'Lato', sans-serif;
 $marker-size: 2vh;
 $horizon-margin: 2vh 0; 
 $vert-margin: 1vh 0;
@@ -64,6 +64,7 @@ $accent-color: #a0409e;
 
 .title {
   font: 1rem $medium-font;
+  color: $accent-color;
   letter-spacing: .6rem;
   text-transform: uppercase;  
 }
@@ -110,6 +111,7 @@ p.subtitle {
 
 .navbar-link, a.navbar-item {
   color: white;
+  font-family: $medium-font;
 }
 
 a.navbar-item:hover {
@@ -132,12 +134,12 @@ strong {
 @media screen and (max-width: 680px) {
 
   .navbar-link, a.navbar-item {
-    padding: .2rem;
+    padding: .4rem;
   }
 
-  .level.is-mobile {
-    margin-top: 2vh;
-  }
+  // .level.is-mobile {
+  //   margin-top: 2vh;
+  // }
 }
 
 @media screen and (max-width: 1024px) {

@@ -5,7 +5,7 @@ const ColoredLine = ({color}) => (
     <hr
         style={{
             color: color,
-            backgroundColor: color,
+            backgroundColor: "#221b2d",
             height: 4
         }}
     />
