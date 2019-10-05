@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "bac93394cd454a3c1ce0",
-    "url": "/me/static/css/main.6e1c1c16.chunk.css"
+    "revision": "f80b2728889524440413",
+    "url": "/me/static/css/main.0d63fcab.chunk.css"
   },
   {
-    "revision": "bac93394cd454a3c1ce0",
-    "url": "/me/static/js/main.bac93394.chunk.js"
+    "revision": "f80b2728889524440413",
+    "url": "/me/static/js/main.f80b2728.chunk.js"
   },
   {
     "revision": "1caf0789ee8fdb1f0b3c",
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/me/static/js/2.9a269e77.chunk.js"
   },
   {
-    "revision": "41fe04ee864cddf4cddc4fb4dd66ee16",
-    "url": "/me/static/media/SecName.41fe04ee.png"
+    "revision": "c6760f78caa2b42810d94c7873d48f66",
+    "url": "/me/static/media/name-logo.c6760f78.png"
   },
   {
     "revision": "a89279e2f966b532423400f6d49e93c3",
@@ -52,7 +52,11 @@ self.__precacheManifest = [
     "url": "/me/static/media/mountain.1af3827b.png"
   },
   {
-    "revision": "b74b484f7e74bf6aa372f0a927631fc9",
+    "revision": "ff9be5f99199b1d2c51f56ed6d28a982",
+    "url": "/me/static/media/queens-landing.ff9be5f9.png"
+  },
+  {
+    "revision": "86c8fc32937b0b02a4ad583af7d2ce13",
     "url": "/me/index.html"
   }
 ];
