@@ -1,14 +1,13 @@
-import React, { Component } from 'react';
+import React, { Component } from "react";
 
-
-const ColoredLine = ({color}) => (
-    <hr
-        style={{
-            color: color,
-            backgroundColor: "#221b2d",
-            height: 4
-        }}
-    />
+const ColoredLine = ({ color }) => (
+  <hr
+    style={{
+      color: color,
+      backgroundColor: "#221b2d",
+      height: 4
+    }}
+  />
 );
 
 export default ColoredLine;
